@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A demonstration how the Latine tongue may be learn't with far greater ease and speed then commonly it is</title>
+            <author>Brett, Arthur, d. 1677?</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18083</idno><idno type="EEBO-CITATION">99825477</idno>
+  <idno type="VID">207616</idno>
+  <idno type="EEBO-PROQUEST">2240859482</idno>
+  
+            <idno type="STC">Wing B4395</idno>
+            <idno type="PROQUEST">99825477</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825477e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207616)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1923:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A demonstration how the Latine tongue may be learn't with far greater ease and speed then commonly it is</title>
+                  <author>Brett, Arthur, d. 1677?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.S. at the Mitre within Temple-bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Singed at end: A.B. Z.W., i.e. Arthur Brett.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Latin language --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207616:1"/>
+            <p>A DEMONSTRATION HOW THE Latine Tongue May be LEARN'T WITH Far greater ease and speed then commonly it is.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> at the Mitre with<g ref="char:EOLhyphen"/>in <hi>Temple-bar.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Latin_pedagogical_scheme">
+            <pb facs="tcp:207616:2"/>
+            <pb n="1" facs="tcp:207616:2"/>
+            <head>A DEMONSTRATION, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>Otwithstanding that this Nation abounds with Schools well endowed, and Schoolmasters excel<g ref="char:EOLhyphen"/>lently qualified, yet hundreds continually go to School divers years to no purpose at all; The Reason whereof is, because the method in most places is bad, and the discipline in many places far worse. In former times children learnt Latine by way of Recreation, and as they did their Mother Tongue, least poring on hard Rules should crack their brains, impair their health, and make them to nauseate all kind of knowledg: And he that taught did not also correct them (the Parents reserving that power to themselves) least passion, malice, or somthing worse should cause extravagancy in inflicting the punish<g ref="char:EOLhyphen"/>ment. Now though it cannot be thus in these dayes, yet an easier and speedier way would save them a great deal of time and trouble and smart, and such a way is here proposed.</hi>
+            </p>
+            <p>First, Let the Grammar be reduc't into one sheet; which may be done by setting down the Paradigmes of the Nouns, Pronouns, Verbs, <hi>&amp;c.</hi> and artificially couching the Rules in the very <hi>English, Situation, Repeti<g ref="char:EOLhyphen"/>tion, Character, Mark,</hi> and <hi>Alteration</hi> of some principal word; as for example,</p>
+            <p n="1">1. By Englishing Sui <hi>of himself,</hi> and Suus <hi>his own,</hi> is saved that Rule, <hi>Sui et Suus reciproca sunt,</hi> h. e. <hi>semper reflectuntur,</hi> &amp;c. By Englishing the Cases thus, Campus, <hi>a field;</hi> i, <hi>of;</hi> o, <hi>to;</hi> um, <hi>I buy, I sell, I see a field,</hi> is sa<g ref="char:EOLhyphen"/>ved that Rule, <hi>Nom. praecedit, Accus. sequitur verbum:</hi> Also, by Englishing Ille <hi>that</hi> and Quis <hi>what,</hi> many diffi<g ref="char:EOLhyphen"/>culties are avoided which naturally follow upon the Englishing the one <hi>he,</hi> and the other <hi>who.</hi>
+            </p>
+            <pb n="2" facs="tcp:207616:3"/>
+            <p n="2">2. By placing the Nounes thus in their Scheme,
+<table>
+                  <row>
+                     <cell rows="2">M. </cell>
+                     <cell>us, er: </cell>
+                     <cell rows="2">F</cell>
+                     <cell>a;</cell>
+                     <cell rows="2">N.</cell>
+                     <cell>um</cell>
+                  </row>
+                  <row>
+                     <cell>i,</cell>
+                     <cell>ae,</cell>
+                     <cell>i,</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">M. </cell>
+                     <cell>o, on, er, or:</cell>
+                     <cell rows="2">F.</cell>
+                     <cell>do, go, s, x:</cell>
+                     <cell rows="2">N.</cell>
+                     <cell>a, ar, al, &amp;c. </cell>
+                  </row>
+                  <row>
+                     <cell>is,</cell>
+                     <cell>is,</cell>
+                     <cell>is.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">M. </cell>
+                     <cell> us †, </cell>
+                     <cell rows="2">F.</cell>
+                     <cell>es;</cell>
+                     <cell rows="2">N.</cell>
+                     <cell>u </cell>
+                  </row>
+                  <row>
+                     <cell>ûs,</cell>
+                     <cell>ei,</cell>
+                     <cell>u</cell>
+                  </row>
+               </table> are saved all the Rules of <hi>Propria quae maribus;</hi> such as vary from the Scheme being better noted elswhere, and those in <hi>us, er, a, es,</hi> of the middle Declension being suf<g ref="char:EOLhyphen"/>ficiently distinguished from such as end so of the other Declensions, by having the Gen. case in <hi>is</hi> alwayes set down with them: Also by placing the Verbs thus in their Scheme.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Voc</hi> o.</cell>
+                     <cell>em.</cell>
+                     <cell>are</cell>
+                  </row>
+                  <row>
+                     <cell>abam.</cell>
+                     <cell>arem.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>avi.</cell>
+                     <cell>averim.</cell>
+                     <cell>avisse.</cell>
+                  </row>
+                  <row>
+                     <cell>averam.</cell>
+                     <cell>avissem.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>abo.</cell>
+                     <cell>avero.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>ans.</cell>
+                     <cell>aturus.</cell>
+                     <cell>atum,</cell>
+                  </row>
+                  <row>
+                     <cell>andus,</cell>
+                     <cell>atus,</cell>
+                     <cell>atu.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>are implyed those many Rules about the derivation of some Tenses from others.</p>
+            <p n="3">3. By repeating the Voc. Case, <hi>e, er, a, um,</hi> &amp;c. and the Accus. Neuter of the Middle Declension <hi>a, ar, al,</hi> &amp;c. is implyed that Rule, <hi>Voc, idem est cum Nom: Item Accus. in Neutro genere:</hi> By repeating <hi>Sui, Sibi, Se,</hi> is shewn that the Plural number thereof is the same as the Singu<g ref="char:EOLhyphen"/>lar: Also, by repeating the Terminations of the Sub<g ref="char:EOLhyphen"/>stantives together is shewn the formation of Adjectives, <hi>us, er,</hi> — <hi>a,</hi> — <hi>um.</hi>
+            </p>
+            <p n="4">4. By setting down obsolete words in the old black Letter, is implyed that they are out of use: and by Ad<g ref="char:EOLhyphen"/>verbs, Conjunctions, <hi>&amp;c.</hi> having the first Letter a small one is signified their being such; that so they may not be taken for Substantives or Adjectives.</p>
+            <p n="5">5. By thus marking <hi>...quo{que} ...autem, ...quidem,</hi> &amp;c. <hi>-{que} -ne, -ve,</hi> is signified that the former are used only after some other word, and the latter joyned to some other word. By thus marking —<hi>demno,</hi> —<hi>lecto, -hibeo;</hi>
+               <pb n="3" facs="tcp:207616:3"/>—<hi>liteo,</hi> —<hi>igo,</hi> —<hi>imo,</hi> —<hi>culco, -sulto,</hi> is shewn that those Verbs are used only in Composition; and by Conse<g ref="char:EOLhyphen"/>quence all the Rules about divers Verbs changing their first Vowel into <hi>e, i, u,</hi> are saved. By thus marking <hi>co- col- con- di- dif- dis-</hi> is shewn that those and the like Prepositions are used only in Composition. Also, by marking a Verb thus <hi>o</hi>* it is distinguished from a Verb of the First Conjugation, and shewn to be of the Third; that so the very Termination of the Verb may shew its Conjugation, as that of the Noun did its Declension: If any in <hi>o, eo, o</hi>*, <hi>io,</hi> vary from the common Scheme; they likewise (as was said of the Nouns) are better noted else-where; as are also such as are irregular in their Per<g ref="char:EOLhyphen"/>fect or Supine.</p>
+            <p n="6">6. By changing the Gerund to a kind of Substantive, thus, <hi>Gen.</hi> Aman-di <hi>of loving,</hi> Abl. -do, <hi>in with, by lov<g ref="char:EOLhyphen"/>ing,</hi> &amp;c. are implyed all the Rules about them: Also, by changing the signification of Obedio, Impero, Noceo, and the like, so as to make them signifie, <hi>I yield obedience. I give command, I do hurt,</hi> are saved all the Rules about such kind of Verbs governing a Dat. Case.</p>
+            <p>In like manner all the Rules whatsoever, saving three or four, may be cryptically infused into the Learner; and thousands there are who can understand a notion as put to them in such a practical manner, who can never comprehend it as set down by way of Rule: Rules, toge<g ref="char:EOLhyphen"/>ther with Definitions, Divisions, and critical Observati<g ref="char:EOLhyphen"/>ons, wherein consists the Art of Grammar (invented long after Language was spoken, and therefore not absolute<g ref="char:EOLhyphen"/>ly necessary to the attaining thereof) may better be learnt afterwards out of <hi>Lilly</hi> a little altered; who for many weighty reasons is not to be laid aside.</p>
+            <p>The Grammar thus reduc't to a Sheet children must thoroughly and perfectly get by heart, by degrees, and one thing after another, <hi>viz.</hi> First, the first sort of Nouns
+<pb n="4" facs="tcp:207616:4"/>and Verbs, together with short Sentences drawn up on purpose, and consisting only of easie words of that first sort, as <hi>Stomachus, Rosa, Affirmo;</hi> then the next sort of Nouns and Verbs, together with Sentences fitted to them; and so the rest in order.</p>
+            <p>Next, let all the common words, and after that the common Phrases, especially such wherein there is any difficulty (<hi>viz.</hi> words of an unusual derivation or chang<g ref="char:EOLhyphen"/>ing their signification in composition, and Phrases groun<g ref="char:EOLhyphen"/>ded on some History, Custome, <hi>&amp;c.</hi>) be reduced into certain Sentences, after this or the like manner.</p>
+            <p>Ubi ignavi equicessant trahere aut traxisse plaustra, ibi sedulus auriga adhibet stimulos.</p>
+            <p>
+               <hi>Where</hi> | <hi>the lazy</hi> | <hi>horses</hi> | <hi>do cease</hi> | <hi>to draw</hi> | <hi>or</hi> | <hi>to have drawn</hi> | <hi>the Carts,</hi> | <hi>there</hi> | <hi>the diligent</hi> | <hi>Car|man</hi> | <hi>applyeth</hi> | <hi>pricks.</hi>
+            </p>
+            <p>Meus filius exercet se benè, bis per-oravit, ter disputa|vit tanquam praeditus (1.) ratione; et dum monui ut redderet (2.) rationem disputationis, reddidit;</p>
+            <p>
+               <hi>My</hi> | <hi>Son</hi> | <hi>doth exercise</hi> | <hi>himself</hi> | <hi>well,</hi> | <hi>twice</hi> | <hi>he hath declaimed,</hi> | <hi>thrice</hi> | <hi>he hath disputed</hi> | <hi>as</hi> | <hi>indu|ed</hi> | <hi>with Reason;</hi> | <hi>and</hi> | <hi>when</hi> | <hi>I admonished</hi> [<hi>him</hi>] <hi>that</hi> | <hi>he should render</hi> | <hi>an account</hi> | <hi>of the Disputa|tion,</hi> | <hi>he hath rendered</hi> [<hi>it.</hi>]</p>
+            <p>Xenocrates caseolus ad Graecas Calendas placebit hel<g ref="char:EOLhyphen"/>luoni; <hi>Schollars Commons will never please a Glutton.</hi>
+            </p>
+            <p>Portasti litteras Bellerophontis, proinde abiturus es ad corvos; <hi>You have made a Rod for your own Back, and so you are like to be ruined.</hi>
+            </p>
+            <p>By the first sort of these Sentences, especially if there be joyned a little Dictionary drawn up on purpose, the Learner shall at once know the Root and Head of each word, and (not only the Gender, Declension, and Con<g ref="char:EOLhyphen"/>jugation
+<pb n="5" facs="tcp:207616:4"/>from the Termination, as was said, but also) the quantity of each Syllable, and the irregularities of it, and also its divers significations; For, <hi>Equi,</hi> and <hi>Stimu<g ref="char:EOLhyphen"/>los</hi> must be Substantives in <hi>us, Cessant</hi> and <hi>Per-oravit</hi> must be Verbs in <hi>o; Adhibet, Exercet,</hi> and <hi>Monui,</hi> must be Verbs in <hi>eo,</hi> they cannot be otherwise: Again, the middle Syl<g ref="char:EOLhyphen"/>lable of <hi>trahere</hi> and <hi>redderet</hi> must be short, because they come from Verbs that are noted in the Dictionary to be of the Third Conjugation, [<hi>traho</hi> *, <hi>reddo</hi> *] and the middle Syllable of Sedulus, Ad-hibet, and Stimulos, must be short, because they are so noted in the Dictionary, <hi>se<g ref="char:EOLhyphen"/>dŭlus,</hi> —<hi>hĭbeo, stimŭlus;</hi> As for long Syllables they need no noting, for if a Syllable be not short it must be long: Again, <hi>Traho</hi> must make <hi>Traxi,</hi> and <hi>Reddo Reddidi;</hi> be<g ref="char:EOLhyphen"/>cause [traxisse] is <hi>to have drawn,</hi> and [reddidit] <hi>he hath rendered.</hi> Lastly, <hi>Ratio</hi> is plainly shew'n to signifie somtimes <hi>Reason,</hi> and somtimes <hi>an account:</hi> as for <hi>quâ ra<g ref="char:EOLhyphen"/>tione,</hi> it is a Phrase, so is <hi>hâc, illâ</hi> and <hi>nullâ-ratione;</hi> all the significations of that word (as indeed of any word in the Latine Tongue except seaven) may be reduced to two: [To make out every particular at large, and prevent or answer all Objections is not the business of this Paper.]</p>
+            <p>By the latter sort of Sentences the Learner will under<g ref="char:EOLhyphen"/>stand any Phrase whatsoever; and so be able to go thorough the Authors: which Authors now are easie to him, the two grand obstacles being by this time removed; <hi>viz.</hi> the meeting with all the difficulties of the Latine Tongue at once in every line, and the not knowing what to make of a word or Phrase, as it occurs: When he hath read and digested all or most of the usual Authors, he will be able to turn any Latine into English, and also any English into Latine; because being well seen in both Languages, he knows the proprieties of each, and will not render [Quid tibi vis?] <hi>What wilt thou to thee?</hi> but <hi>What wouldst thou have?</hi> [Nihil moror quid objicis,]
+<pb n="6" facs="tcp:207616:5"/>
+               <hi>I do tarry nothing,</hi> but <hi>I do not matter what thou objectest;</hi> nor <hi>He saw but three,</hi> [ille serra sed tres,] but [vidit tantum tres;] <hi>I do as well as thou,</hi> [Facis ut puteus ut tu] but [tam bene valeo ac tu.] And thus may be avoyded the Learning of almost infinite and unintelligi<g ref="char:EOLhyphen"/>ble Rules, the continual turning over Dictionaries, the tedious using of <hi>Smetius,</hi> the endless conning of a thou<g ref="char:EOLhyphen"/>sand Particles, the getting by heart whole Volumns of Phrases, the daily blundering over and piercing of Les<g ref="char:EOLhyphen"/>sons, the difficult and irksome making of Latine for ma<g ref="char:EOLhyphen"/>ny years together; And so with the good leave of that stupendous Vertuoso and Gyant in knowledg, the Latine Tongue is not altogether so unfit to be the universal Language, as he is pleased to reckon it.</p>
+            <p>
+               <hi>By this method for some years Gentlemen have been di<g ref="char:EOLhyphen"/>rected how by their own industry to gain or recover the La<g ref="char:EOLhyphen"/>tine Tongue in the space of few months; it is now (with due submission to the Judgments of the Ingenious Clergy and Gentry) proposed as a means of unspeakable ease both to Schoolmasters and Schollars; and in some Cases 'tis a<g ref="char:EOLhyphen"/>bundant satisfaction to the Inventors, to have only proposed a matter, however prejudice, Custome, or Ignorance may for some time hinder its reception.</hi>
+            </p>
+            <p>
+               <hi>The like short course may also be taken for the Greek Tongue, and for divers Arts and Sciences; whereof more may be said hereafter, when this proposal already made is encouraged.</hi>
+            </p>
+            <closer>
+               <signed>A.B. Z.W.</signed>
+               <dateline>Second Door from <hi>Sommerset House,</hi>
+                  <date>Jan. 18. 1669.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207616:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
